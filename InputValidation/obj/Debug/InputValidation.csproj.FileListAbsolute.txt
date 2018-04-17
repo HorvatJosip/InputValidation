@@ -1,0 +1,16 @@
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\bin\Debug\InputValidation.exe.config
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\bin\Debug\InputValidation.exe
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\bin\Debug\InputValidation.pdb
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\bin\Debug\System.ValueTuple.dll
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\bin\Debug\System.ValueTuple.xml
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\InputValidation.csprojResolveAssemblyReference.cache
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\MainWindow.g.cs
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\App.g.cs
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\InputValidation_MarkupCompile.cache
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\InputValidation_MarkupCompile.lref
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\MainWindow.baml
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\InputValidation.g.resources
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\InputValidation.Properties.Resources.resources
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\InputValidation.csproj.GenerateResource.Cache
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\InputValidation.exe
+C:\Users\hyperv\Desktop\InputValidation\InputValidation\obj\Debug\InputValidation.pdb
